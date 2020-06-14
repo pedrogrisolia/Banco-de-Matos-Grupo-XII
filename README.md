@@ -1,2 +1,2 @@
-# Banco-de-Matos-Grupo-XII-
+# Banco de Matos
 Aplicativo Android desenvolvido no Kodular para o Hackathon do BNDES
