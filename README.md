@@ -40,3 +40,16 @@ Para nós, ter conseguido implementar o aplicativo para que ele funcione de form
 ## Próximos passos
 
 Os próximos passos para o aplicativo seria disponibilizar de forma efetiva esse banco de dados para órgãos públicos do meio ambiente, como o Ministério do Meio Ambiente, Ibama, ONGs como o Greenpeace e a comunidade científica no geral, afim de ajudar no mapeamento e coleta de informações acerca das queimadas e desmatamentos das preciosas florestas brasileiras.
+
+## O que cada um fez
+#### Pedro Moreira Grisolia 
+Implementação da tela de formulário e através do uso de back-end do aplicativo foram produzidas funções que conectam as informações captadas do formulário com a API do banco de dados Firebase, e banco de dados local, caso não haja internet, fazendo uso do banco de dados TinyDB. Além disso, o serviço de armazenamento de imagens em nuvem foi implementado com a API do Cloudinary.
+#### Luis Moreira da Costa
+ Levantamento e analise de requisitos e debugs da versões de teste. Auxilio da implementação do TinyDB , auxilio de implementação das telas de transição e preenchimento dos servidores do Firebase com dados de teste.
+
+#### Patrick Lavigne da Silva
+Designer do projeto, desenvolvedor da logo principal do aplicativo. Responsável por toda documentação do projeto e apresentação do mesmo através do vídeo. 
+
+#### Felipe Costa Gomes de Oliveira
+ Foi realizado o desenvolvimento de aplicações front-end construindo a tela inicial do aplicativo que contém a apresentação do projeto. Considerando o back-end, foi produzido o bloco que recebe informações salvas no banco de dados e que serão exibidas na tela de Banco de Dados.
+
