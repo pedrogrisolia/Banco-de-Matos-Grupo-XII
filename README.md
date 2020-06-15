@@ -48,7 +48,7 @@ Implementação da tela de formulário e através do uso de back-end do aplicati
  Levantamento e analise de requisitos e debugs da versões de teste. Auxilio da implementação do TinyDB , auxilio de implementação das telas de transição e preenchimento dos servidores do Firebase com dados de teste.
 
 #### Patrick Lavigne da Silva
-Designer do projeto, desenvolvedor da logo principal do aplicativo. Responsável por toda documentação do projeto e apresentação do mesmo através do vídeo. 
+Designer do projeto, desenvolvedor da logo principal do aplicativo. Responsável por toda documentação do projeto, edição e apresentação do mesmo através do vídeo.  O desenvolvimento do aplicativo em grupo, possibilitou conhecimento sobre a linguagem utilizada na criação do aplicativo.
 
 #### Felipe Costa Gomes de Oliveira
  Foi realizado o desenvolvimento de aplicações front-end construindo a tela inicial do aplicativo que contém a apresentação do projeto. Considerando o back-end, foi produzido o bloco que recebe informações salvas no banco de dados e que serão exibidas na tela de Banco de Dados.
