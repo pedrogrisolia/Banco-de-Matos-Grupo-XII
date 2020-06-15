@@ -1,0 +1,1 @@
+Para visualizar o código fonte, você pode importar o arquivo BancoDeMatos.aia na sua conta do Kodular, ou abrir a pasta Sumário do código fonte e visualizar o arquivo HTML, ou abrir a pasta BancoDeMatos.
