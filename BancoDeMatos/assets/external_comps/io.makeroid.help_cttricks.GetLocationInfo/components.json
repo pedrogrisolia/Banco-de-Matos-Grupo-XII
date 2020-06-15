@@ -1,0 +1,39 @@
+[{
+ "categoryString": "EXTENSION",
+ "dateBuilt": "2019-11-30T18:35:10+0100",
+ "nonVisible": "true",
+ "iconName": "https://res.cloudinary.com/dq2zsvyoy/image/upload/v1558961204/cttricks.png",
+ "methods": [{
+  "deprecated": "false",
+  "name": "GetLocationInfo",
+  "description": "Provide the value of Latitude & Longitude to get the address.",
+  "params": [
+   {
+    "name": "latitude",
+    "type": "number"
+   },
+   {
+    "name": "longitude",
+    "type": "number"
+   }
+  ]
+ }],
+ "blockProperties": [],
+ "helpUrl": "",
+ "type": "io.makeroid.help_cttricks.GetLocationInfo.GetLocationInfo",
+ "version": "1",
+ "external": "true",
+ "showOnPalette": "true",
+ "name": "GetLocationInfo",
+ "helpString": "Use this component to get the address of a perticular Latitude & Longitude. Note : This extension needs internet access.<br><b><font color=#ff3300>Ct tricks<\/font><\/b>",
+ "properties": [],
+ "events": [{
+  "deprecated": "false",
+  "name": "GotLocationInfo",
+  "description": "In return you'll get the following details;\n.\n- Loality Name\n- City Name\n- State Name\n- Pin/Zip Code\n- County Name\n.\nAll these deatils in one single string.",
+  "params": [{
+   "name": "addressLine",
+   "type": "text"
+  }]
+ }]
+}]

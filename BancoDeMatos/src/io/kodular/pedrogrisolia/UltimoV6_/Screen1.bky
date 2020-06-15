@@ -1,0 +1,26 @@
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <block type="component_event" id="88P,FQmVVVI.$g+c;+}3" x="-1130" y="-430">
+    <mutation component_type="Button" is_generic="false" instance_name="Entrar" event_name="Click"></mutation>
+    <field name="COMPONENT_SELECTOR">Entrar</field>
+    <statement name="DO">
+      <block type="controls_openAnotherScreen" id="3cb)U]1~#l]yz7iuF5io">
+        <value name="SCREEN">
+          <block type="text" id="=ojbYH4AA`L17jjeZ(Kj">
+            <field name="TEXT">Screen3</field>
+          </block>
+        </value>
+      </block>
+    </statement>
+  </block>
+  <block type="component_event" id="(iuRj~[.4Ub_p_J?:YtD" x="-1130" y="-350">
+    <mutation component_type="Button" is_generic="false" instance_name="Telefone" event_name="Click"></mutation>
+    <field name="COMPONENT_SELECTOR">Telefone</field>
+    <statement name="DO">
+      <block type="component_method" id="U8CDlSGX0X+L5mw3dSWi">
+        <mutation component_type="PhoneCall" method_name="MakePhoneCall" is_generic="false" instance_name="Phone_Call1"></mutation>
+        <field name="COMPONENT_SELECTOR">Phone_Call1</field>
+      </block>
+    </statement>
+  </block>
+  <yacodeblocks ya-version="224" language-version="31"></yacodeblocks>
+</xml>
