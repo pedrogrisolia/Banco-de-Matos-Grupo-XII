@@ -1,4 +1,5 @@
 # Banco de Matos
+[Veja nosso Pitch](https://www.youtube.com/watch?v=3bveAjKVvx0&feature=emb_title)
 
 ## Inspiração
 
@@ -10,7 +11,7 @@ A motivação para fazer queimada na Amazônia é de cunho econômico. Geralment
 
 Os danos causados pela queimada na Amazônia, como destruição da vegetação, solo improdutivo, perda de fauna e flora, agravamento do efeito estufa e aquecimento global são muito graves e comprometem o meio ambiente como um todo, incluindo a própria população. 
 
-Segundo os dados do INPE para o ano de 2018. No Brasil houve um total de 151.889 focos de incêndios, em 2019 206.884 focos de incêndios e em 2020 estamos em 19.710 focos de incêndios registrados até 12/06/2020.
+Segundo os [dados do INPE](http://queimadas.dgi.inpe.br//queimadas/portal) para o ano de 2018. No Brasil houve um total de 151.889 focos de incêndios, em 2019 206.884 focos de incêndios e em 2020 estamos em 19.710 focos de incêndios registrados até 12/06/2020.
 
 
 ## Como o aplicativo foi desenvolvido
