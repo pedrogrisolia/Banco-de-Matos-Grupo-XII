@@ -1,4 +1,6 @@
-# Banco de Matos
+<img src="BancoDeMatos/assets/Logo_Extenso.png">
+
+
 [Veja nosso Pitch](https://www.youtube.com/watch?v=3bveAjKVvx0&feature=emb_title)
 
 ## Inspiração
